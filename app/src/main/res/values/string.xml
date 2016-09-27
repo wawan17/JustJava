@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+
+    <!-- labels -->
+    <string name="quantity_text_view">quantity</string>
+    <string name="price_text_view_label">$0</string>
+    <string name="price_text_view">order summary</string>
+    <string name="topping_text_view">topping</string>
+    <string name="topping_checkbox_label">Whipped cream</string>
+    <string name="topping_chocolate_label">Chocolate</string>
+    <string name="topping_banana_label">Banana</string>
+    <string name="name_hint">Your name</string>
+
+    <!-- button -->
+    <string name="order_button">order</string>
+</resources>

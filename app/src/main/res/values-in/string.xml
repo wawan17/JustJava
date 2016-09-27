@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cuma Java</string>
+
+    <!-- labels -->
+    <string name="quantity_text_view">jumlah</string>
+    <string name="price_text_view_label">Rp0</string>
+    <string name="price_text_view">ringkasan order</string>
+    <string name="topping_text_view">taburan</string>
+    <string name="topping_checkbox_label">Cream busa</string>
+    <string name="topping_chocolate_label">Cokelat</string>
+    <string name="topping_banana_label">Pisang</string>
+    <string name="name_hint">Nama Anda</string>
+
+    <!-- button -->
+    <string name="order_button">order</string>
+</resources>
